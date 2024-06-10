@@ -34,8 +34,10 @@
 		"toolbar.hoverBackground": "#171724",
 		"menu.selectionBackground": "#6F7BBF",
 		"focusBorder": "#2540D9",
+		"editorGroupHeader.tabsBackground": "#1e1e2e"
 		
 	},
+	
 	"tokenColors": [
 		{
 			"name": "Comment",

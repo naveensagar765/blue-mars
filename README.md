@@ -1,6 +1,8 @@
 # Blue Mars Theme
 
- simple theme with vibrant colors, available in both dark and light modes
+ ### Simple theme with vibrant colors, available in both dark and light modes
+![Theme Preview](screenshots/themepreview.png)
+
 
 ## Features
 - **Vibrant Colors**: Carefully selected colors to enhance your coding experience.
@@ -12,10 +14,16 @@
 ## Preview
 
 ### Dark Mode
-![Dark Mode Preview](link_to_dark_mode_preview_image)
+<details>
+  <summary>Dark Mode Preview</summary>
+  <img src="screenshots/dark.png" alt="Dark Mode Preview">
+</details>
 
 ### Light Mode
-![Light Mode Preview](link_to_light_mode_preview_image)
+<details>
+  <summary>Light Mode Preview</summary>
+  <img src="screenshots/light.png" alt="Light Mode Preview">
+</details>
 
 ## Installation
 
@@ -29,9 +37,14 @@
 
 Easily switch between dark and light modes by selecting `Blue Mars Theme` from the color theme options.
 
+## Recommanded Configration
+
+1. Install [Atom Product Icon Theme](https://marketplace.visualstudio.com/items?itemName=AtomMaterial.a-file-icon-vscode).
+2. Use any font from these **(Cartograph CF,Fira Code,Jetbrains Mono)**
+
 ## Developer and YouTuber
 
-This theme is developed and maintained by [Naveen Sagar](https://github.com/yourusername), a passionate developer and educator.
+This theme is developed and maintained by [Naveen Sagar](https://github.com/naveensagar765), a passionate developer and educator.
 
 ### Check Out My YouTube Channel
 
@@ -39,12 +52,8 @@ Subscribe to [Naveen Sagar](https://www.youtube.com/@NaveenSagar1) for insightfu
 
 ## Feedback
 
-We would love to hear your feedback! If you encounter any issues or have suggestions for improvement, please [open an issue](https://github.com/yourusername/blue-mars-theme/issues) on our GitHub repository.
-
-## Contributing
-
-Contributions are welcome! Please read our [contributing guidelines](https://github.com/yourusername/blue-mars-theme/blob/main/CONTRIBUTING.md) before submitting a pull request.
+We would love to hear your feedback! If you encounter any issues or have suggestions for improvement, please [open an issue](https://github.com/naveensagar765/blue-mars/issues) on our GitHub repository.
 
 ## License
 
-This theme is licensed under the MIT License. See the [LICENSE](https://github.com/yourusername/blue-mars-theme/blob/main/LICENSE) file for more details.
+This theme is licensed under the MIT License. See the [LICENSE](https://github.com/naveensagar765/blue-mars/blob/main/LICENSE) file for more details.

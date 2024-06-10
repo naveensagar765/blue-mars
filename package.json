@@ -1,9 +1,9 @@
 {
   "name": "blue-mars",
-  "displayName": "Blue Mars",
+  "displayName": "Blue Mars Theme",
   "description": "A simple theme with vibrant colors, available in both dark and light modes",
   "version": "0.0.1",
-  "author": {"name": "Naveen Sagar"},
+  "publisher": "Naveen Sagar",
   "engines": {
     "vscode": "^1.90.0"
   },
@@ -23,5 +23,9 @@
         "path": "./themes/Blue Mars-light-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/naveensagar765/blue-mars/"
   }
 }
