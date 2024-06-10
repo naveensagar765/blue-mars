@@ -3,9 +3,10 @@
   "displayName": "Blue Mars Theme",
   "description": "A simple theme with vibrant colors, available in both dark and light modes",
   "version": "0.0.1",
-  "publisher": "Naveen Sagar",
+  "publisher": "NaveenSagar",
+  "icon": "assets/icon.png",
   "engines": {
-    "vscode": "^1.90.0"
+    "vscode": "^1.80.0"
   },
   "categories": [
     "Themes"
