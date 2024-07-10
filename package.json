@@ -2,7 +2,7 @@
   "name": "blue-mars",
   "displayName": "Blue Mars Theme",
   "description": "A simple theme with vibrant colors, available in both dark and light modes",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "NaveenSagar",
   "icon": "assets/icon.png",
   "engines": {

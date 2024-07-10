@@ -46,7 +46,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"fontStyle": "italic",
+				 
 				"foreground": "#546E7A"
 			}
 		},
@@ -76,7 +76,8 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#b05261"
+				"foreground": "#b05261",
+				"fontStyle": "underline"
 			}
 		},
 		{
@@ -87,7 +88,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#ba53ff",
 			}
 		},
 		{
@@ -108,7 +109,6 @@
 			],
 			"settings": {
 				"foreground": "#5367fd",
-				"fontStyle": "italic"
 			}
 		},
 		{
@@ -133,7 +133,6 @@
 			],
 			"settings": {
 				"foreground": "#82AAFF",
-				"fontStyle": "italic"
 			}
 		},
 		{
@@ -242,7 +241,7 @@
 				"variable.language"
 			],
 			"settings": {
-				"fontStyle": "italic",
+				 
 				"foreground": "#FF5370"
 			}
 		},
@@ -252,7 +251,7 @@
 				"entity.name.method.js"
 			],
 			"settings": {
-				"fontStyle": "italic",
+				 
 				"foreground": "#82AAFF"
 			}
 		},
@@ -272,7 +271,9 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#fefcff",
+				"fontStyle": "italic"
+
 			}
 		},
 		{
@@ -282,7 +283,7 @@
 				"text.html.basic entity.other.attribute-name"
 			],
 			"settings": {
-				"fontStyle": "italic",
+				
 				"foreground": "#FFCB6B"
 			}
 		},
@@ -367,7 +368,7 @@
 				"tag.decorator.js punctuation.definition.tag.js"
 			],
 			"settings": {
-				"fontStyle": "italic",
+				 
 				"foreground": "#82AAFF"
 			}
 		},
@@ -377,7 +378,7 @@
 				"source.js constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"fontStyle": "italic",
+				 
 				"foreground": "#FF5370"
 			}
 		},
@@ -507,7 +508,7 @@
 				"markup.italic"
 			],
 			"settings": {
-				"fontStyle": "italic",
+				 
 				"foreground": "#f07178"
 			}
 		},
@@ -562,7 +563,6 @@
 				"markup.quote"
 			],
 			"settings": {
-				"fontStyle": "italic"
 			}
 		},
 		{
